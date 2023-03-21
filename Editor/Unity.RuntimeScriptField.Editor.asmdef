@@ -1,14 +1,18 @@
 {
     "name": "Unity.RuntimeScriptField.Editor",
+    "rootNamespace": "",
     "references": [
         "GUID:67f632d2685edc6479c7c13dcf12731f"
     ],
-    "includePlatforms": [],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
     "precompiledReferences": [],
     "autoReferenced": true,
     "defineConstraints": [],
-    "versionDefines": []
+    "versionDefines": [],
+    "noEngineReferences": false
 }

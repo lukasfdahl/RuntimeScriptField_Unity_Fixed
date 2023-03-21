@@ -1,5 +1,5 @@
 # RuntimeScriptField_Unity
-A utility for Unity allowing you to assign scripts in the editor, and add them to game objects at runtime.
+A utility for Unity allowing you to assign scripts in the editor, and add them to game objects at runtime. hopefully with the compile bug fixed
 
 ## Installation
 The package branch is setup to be used as UPM package, simply add the following line as a dependency in your project manifest.
